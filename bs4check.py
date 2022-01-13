@@ -37,8 +37,7 @@ def isinStock(content):
             print(content[count+1])
             if content[count+5] == sku and content[count+1] == instock:
                 return True
-        # content[count+1] stock
-        # content[count+5] sku
+
 
 print(isinStock(content))
 
