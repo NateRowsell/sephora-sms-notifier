@@ -751,6 +751,7 @@ FodyWeavers.xsd
 
 #Personal
 seleniumcheck.py
+chromedriver.exe
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
